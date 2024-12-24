@@ -13,9 +13,9 @@ import {
 
 const navItems = [
   { name: "Home", href: "/" },
-  { name: "Events", href: "/events" },
-  { name: "Create", href: "/create" },
+  { name: "Transfer", href: "/transfer" },
   { name: "About", href: "/about" },
+  { name: "Contact", href: "/contact" },
 ];
 
 export default function Navbar() {
