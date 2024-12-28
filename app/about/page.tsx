@@ -26,7 +26,7 @@ const AboutPage = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-background to-secondary/20 px-4 py-16">
+    <div className="min-h-screen px-4 py-16">
       <div className="container mx-auto max-w-4xl">
         <motion.div
           initial="initial"

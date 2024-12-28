@@ -45,7 +45,7 @@ const ContactPage = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-background to-secondary/20 px-4 py-16">
+    <div className="min-h-screen px-4 py-16">
       <motion.div
         className="container mx-auto max-w-4xl"
         variants={containerVariants}
